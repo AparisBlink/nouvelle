@@ -598,6 +598,12 @@ a:hover, a:active, a:focus{
     color: #3E8C46;
 }
 
+/*énfasis letras doradas*/
+.bck-enfasis-9 {
+	font-weight: 700;
+    color: #EF9F1A;
+}
+
 /* Lists */
 
 .texto_curso ul li,
