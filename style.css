@@ -1288,6 +1288,32 @@ a:hover, a:active, a:focus{
     background-color: #FFF0C7;
 }
 
+/*caja 11  INFO EN*/
+.bck-box.bck-box-11{
+	margin: 10px;
+    padding: 6px;
+}
+
+.bck-box-11 .bck-title{
+	background-color: #A7CE39;
+    width: fit-content;
+    border-radius: 15px 15px 0 0px;
+    padding: 3px 15px 0px 15px;
+    color: #ffff;
+    position: relative;
+    top: 16px;
+}
+
+.bck-box-11 .bck-content{
+	border: 8px solid #A7CE39;
+    font-size: 2rem;
+    padding: 8px 8px 8px 8px;
+    width: fit-content;
+    border-radius: 0 8px 15px 15px;
+	box-shadow: 5px 8px 12px 0px #c4c4c4;
+	background-color: #E5F0CB;	
+}
+
 /*TABLA POR DEFECTO*/
 table td,
 .bck-table td {
@@ -1503,7 +1529,7 @@ body.content_type_clase_nouvelle #actividad .content .fillblanks-draggable
  	background: #EE3B76;
 }
 
-.coursetag_nouvelleb1 #indice .units ul li:hover:not(.disabled){
+body:not(.isTablet).coursetag_nouvelleb1 #indice .units ul li:hover:not(.disabled){
 	background: #EE3B76;
 }
 
@@ -1537,7 +1563,7 @@ body.content_type_clase_nouvelle #actividad .content .fillblanks-draggable
  	background: #00869B;
 }
 
-.coursetag_nouvellea2b1 #indice .units ul li:hover:not(.disabled){
+body:not(.isTablet).coursetag_nouvellea2b1 #indice .units ul li:hover:not(.disabled){
 	background: #00869B !important;
 }
 
