@@ -1164,6 +1164,123 @@ a:hover, a:active, a:focus{
     line-height: 2.5rem;
     font-family: 'Conv_RobotoSlab-Bold';
 }
+
+/*LISTA ORDENADA 13 letras Morada*/
+#actividad .content .cke_contents .bck-ol-13,
+#actividad .content .texto_curso .bck-ol-13,
+#actividad .content .workspace ul li .bck-ol-13,
+#actividad .popover-content .bck-ol-13 {
+  list-style-type: none;
+  counter-reset: bck-li-counter;
+}
+#actividad .content .cke_contents .bck-ol-13 li,
+#actividad .content .cke_contents .bck-ol-13 li,
+#actividad .content .texto_curso .bck-ol-13 li,
+#actividad .popover-content .bck-ol-13 li,
+#actividad .content .workspace ul li .bck-ol-13 li {
+	list-style-type: none;
+	padding-left: 29px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+	font-family: 'Conv_RobotoSlab-Regular';
+}
+#actividad .content .cke_contents ol.bck-ol-13 li:before,
+#actividad .content .texto_curso ol.bck-ol-13 li:before,
+#actividad .popover-content ol.bck-ol-13 li:before{
+	content: counter(bck-li-counter, lower-alpha)'.';
+	top: 4px;
+	left: 10px;
+    position: absolute;
+    left: 10px;
+    color: #000;
+    line-height: 2rem;
+    color: #7a59a5;
+    line-height: 2rem;
+}
+#actividad .content .workspace ul li ol.bck-ol-13 li:before{
+	top: -5px;
+}
+
+/*LISTA ORDENADA 14 letras Verde*/
+#actividad .content .cke_contents .bck-ol-14,
+#actividad .content .texto_curso .bck-ol-14,
+#actividad .content .workspace ul li .bck-ol-14,
+#actividad .popover-content .bck-ol-14 {
+  list-style-type: none;
+  counter-reset: bck-li-counter;
+}
+#actividad .content .cke_contents .bck-ol-14 li,
+#actividad .content .cke_contents .bck-ol-14 li,
+#actividad .content .texto_curso .bck-ol-14 li,
+#actividad .popover-content .bck-ol-14 li,
+#actividad .content .workspace ul li .bck-ol-14 li {
+	list-style-type: none;
+	padding-left: 29px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+	font-family: 'Conv_RobotoSlab-Regular';
+}
+#actividad .content .cke_contents ol.bck-ol-14 li:before,
+#actividad .content .texto_curso ol.bck-ol-14 li:before,
+#actividad .popover-content ol.bck-ol-14 li:before{
+	content: counter(bck-li-counter, lower-alpha)'.';
+	top: 4px;
+	left: 10px;
+    position: absolute;
+    left: 10px;
+    color: #000;
+    line-height: 2rem;
+    color: #3E8C46;
+    line-height: 2rem;
+}
+#actividad .content .workspace ul li ol.bck-ol-14 li:before{
+	top: -5px;
+}
+
+/*LISTA ORDENADA 15 letras Doradas*/
+#actividad .content .cke_contents .bck-ol-15,
+#actividad .content .texto_curso .bck-ol-15,
+#actividad .content .workspace ul li .bck-ol-15,
+#actividad .popover-content .bck-ol-15 {
+  list-style-type: none;
+  counter-reset: bck-li-counter;
+}
+#actividad .content .cke_contents .bck-ol-15 li,
+#actividad .content .cke_contents .bck-ol-15 li,
+#actividad .content .texto_curso .bck-ol-15 li,
+#actividad .popover-content .bck-ol-15 li,
+#actividad .content .workspace ul li .bck-ol-15 li {
+	list-style-type: none;
+	padding-left: 29px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+	font-family: 'Conv_RobotoSlab-Regular';
+}
+#actividad .content .cke_contents ol.bck-ol-15 li:before,
+#actividad .content .texto_curso ol.bck-ol-15 li:before,
+#actividad .popover-content ol.bck-ol-15 li:before{
+	content: counter(bck-li-counter, lower-alpha)'.';
+	top: 4px;
+	left: 10px;
+    position: absolute;
+    left: 10px;
+    color: #000;
+    line-height: 2rem;
+    color: #EF9F1A;
+    line-height: 2rem;
+}
+#actividad .content .workspace ul li ol.bck-ol-15 li:before{
+	top: -5px;
+}
+
+
+/*---*/
 /*LISTA DESORDENADA POR DEFECTO*/
 
 .texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
