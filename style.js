@@ -22,6 +22,7 @@
 				{ name: 'Énfasis letras azules', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'Énfasis letras moradas', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis letras verde', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
+				{ name: 'Énfasis letras doradas', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 
 				{ name: 'L.123 BG NAR', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'L.123 BG AZ', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
