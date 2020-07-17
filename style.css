@@ -1336,6 +1336,7 @@ a:hover, a:active, a:focus{
 
 .bck-box-1 .bck-title{
     background-color: #f15923;
+    width: -moz-fit-content;
     width: fit-content;
     border-radius: 15px 15px 0 0px;
     padding: 3px 15px 0px 15px;
@@ -1348,6 +1349,7 @@ a:hover, a:active, a:focus{
 	border: 8px solid #f15923;
     font-size: 2rem;
     padding: 8px 8px 8px 8px;
+    width: -moz-fit-content;
     width: fit-content;
     border-radius: 0 8px 15px 15px;
 }
@@ -1502,6 +1504,7 @@ a:hover, a:active, a:focus{
 
 .bck-box-9 .bck-title{
 	background-color: #EF9F17;
+    width: -moz-fit-content;
     width: fit-content;
     border-radius: 15px 15px 0 0px;
     padding: 3px 15px 0px 15px;
@@ -1514,6 +1517,7 @@ a:hover, a:active, a:focus{
 	border: 8px solid #EF9F17;
     font-size: 2rem;
     padding: 8px 8px 8px 8px;
+    width: -moz-fit-content;
     width: fit-content;
     border-radius: 0 8px 15px 15px;
     box-shadow: 5px 8px 12px 0px #c4c4c4;	
@@ -1545,6 +1549,7 @@ a:hover, a:active, a:focus{
 
 .bck-box-11 .bck-title{
 	background-color: #A7CE39;
+    width: -moz-fit-content;
     width: fit-content;
     border-radius: 15px 15px 0 0px;
     padding: 3px 15px 0px 15px;
@@ -1557,6 +1562,7 @@ a:hover, a:active, a:focus{
 	border: 8px solid #A7CE39;
     font-size: 2rem;
     padding: 8px 8px 8px 8px;
+    width: -moz-fit-content;
     width: fit-content;
     border-radius: 0 8px 15px 15px;
 	box-shadow: 5px 8px 12px 0px #c4c4c4;
