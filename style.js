@@ -36,6 +36,9 @@
 				{ name: 'L.abc AZ', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-10' } },
 				{ name: 'L.123 BG DOR', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-11' } },
 				{ name: 'L.123 DOR', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-12' } },
+				{ name: 'L.abc MOR', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-13' } },
+				{ name: 'L.abc VER', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-14' } },
+				{ name: 'L.abc DOR', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-15' } },
 
 				{ name: 'L.Des. Dorada', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
 				{ name: 'L.Des. Morada', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
