@@ -58,8 +58,11 @@
 				{ name: 'Caja Info en', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-11' } },
 
 				{ name: 'Tabla roja', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
+				{ name: 'Tabla azul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
 
-				{ name: 'Celda roja', element: 'td', attributes: { 'class': 'bck-td-2'} }
+				{ name: 'Celda roja', element: 'td', attributes: { 'class': 'bck-td-2'} },
+				{ name: 'Celda azul', element: 'td', attributes: { 'class': 'bck-td-3'} }
+
 			]
 		},
 
