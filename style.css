@@ -1611,6 +1611,22 @@ table td.bck-td-2 {
   text-align: center;
 }
 
+/*tabla azul y celda azul*/
+.bck-table-3 {
+	border: 1px solid #0776BE;
+  }
+  
+  .bck-table-3 td {
+	border: 1px solid #0776BE;
+  }
+  
+  /*celda roja*/
+  table td.bck-td-3 {
+	color: #0072BC;
+	background: #C6D5ED;
+	text-align: center;
+  }
+
 /* Icons */
 #actividad .player.audio {
 	display: inline-block;
