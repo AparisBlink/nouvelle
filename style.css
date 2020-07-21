@@ -1358,6 +1358,9 @@ a:hover, a:active, a:focus{
     width: fit-content;
     border-radius: 0 8px 15px 15px;
 }
+.bck-box-1 .bck-content p:last-of-type {
+    margin-bottom: 0;
+}
 
 /* Caja 2 */
 .bck-box.bck-box-2{
@@ -1528,6 +1531,10 @@ a:hover, a:active, a:focus{
     box-shadow: 5px 8px 12px 0px #c4c4c4;	
 }
 
+.bck-box-9 .bck-content p:last-of-type {
+    margin-bottom: 0;
+}
+
 /*caja 10 dire*/
 .bck-box.bck-box-10{
     padding: 10px 15px;
@@ -1572,6 +1579,27 @@ a:hover, a:active, a:focus{
     border-radius: 0 8px 15px 15px;
 	box-shadow: 5px 8px 12px 0px #c4c4c4;
 	background-color: #E5F0CB;	
+}
+.bck-box-11 .bck-content p:last-of-type {
+    margin-bottom: 0;
+}
+
+/*caja Gris Act*/
+.bck-box.bck-box-12 {
+	margin-top: 15px;
+	border: none;
+	background: transparent;
+}
+.bck-box.bck-box-12 .bck-title {
+	color: inherit;
+}
+.bck-box.bck-box-12 .bck-content {
+	padding-left: 30px;
+	background-color: #ebebeb;
+	padding: 8px 8px 8px 19px;
+}
+.bck-box-12 .bck-content p:last-of-type {
+	margin-bottom: 0;
 }
 
 /*TABLA POR DEFECTO*/
