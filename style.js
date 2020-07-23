@@ -57,6 +57,9 @@
 				{ name: 'Caja dire', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-10' } },
 				{ name: 'Caja Info en', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-11' } },
 				{ name: 'Caja Gris act', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-12' } },
+				{ name: 'Caja Azul simple', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-13' } },
+				{ name: 'Caja Azul borde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-14' } },
+				{ name: 'Caja Gris Sombra', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-15' } },
 
 				{ name: 'Tabla roja', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Tabla azul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
